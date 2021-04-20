@@ -31,4 +31,4 @@ A repository containing Hello World's in every language I know.
 
 Feel free to contribute (:
 
-This project is licensed under the [WTFPL License](LICENSE.md).
+This project is licensed under the [WTFPL License](LICENSE).
