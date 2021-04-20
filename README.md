@@ -23,3 +23,7 @@ A repository containing hello world's in every language I know.
 * [Shell](hello-world.sh)
 * [Swift](hello-world.swift)
 * [TypeScript](hello-world.ts)
+
+Feel free to contribute (:
+
+This project is licensed under the [WTFPL License](LICENSE.md).
