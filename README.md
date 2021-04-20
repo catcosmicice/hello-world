@@ -1,6 +1,6 @@
 # Hello World
 
-A repository containing hello world's in every language I know.
+A repository containing Hello World's in every language I know.
 
 * [Assembly](hello-world.asm)
 * [BrainFuck](hello-world.b)
