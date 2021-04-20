@@ -2,9 +2,13 @@
 
 A repository containing hello world's in every language I know.
 
+* [Assembly](hello-world.asm)
+* [BrainFuck](hello-world.b)
+* [Batch](hello-world.bat)
 * [C](hello-world.c)
 * [C++](hello-world.cpp)
 * [C#](hello-world.cs)
+* [COBOL](hello-world.cbl)
 * [Dart](hello-world.dart)
 * [Elixir](hello-world.cs)
 * [Go](hello-world.go)
@@ -23,6 +27,7 @@ A repository containing hello world's in every language I know.
 * [Shell](hello-world.sh)
 * [Swift](hello-world.swift)
 * [TypeScript](hello-world.ts)
+* [Visual Basic](hello-world.vb)
 
 Feel free to contribute (:
 
